@@ -10,7 +10,7 @@ Template inspiration borrowed heavily from [David Keyes](https://github.com/dgke
 
 [Typst documentatiton](https://typst.app/docs)
 
-[Megan Hall's blog post](https://meghan.rbind.io/blog/2024-08-14-quarto-templates/) recapping her Posit::conf 2024 talk
+[Meghan Hall's blog post](https://meghan.rbind.io/blog/2024-08-14-quarto-templates/) recapping her Posit::conf 2024 talk
 
 ![](https://morrisLuke.github.io/typst_quarto_barebones_report_template/report-preview.png)
 
