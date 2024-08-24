@@ -2,7 +2,7 @@
 
 This [Barebones template](https://morrisLuke.github.io/typst_quarto_barebones_report_template/report.pdf) features slots for a header image, footer image, footer page numbering, and footer motto.
 
-Template inspiration borrowed heavily from David Keyes' far more feature-rich report template presented at [Posit::conf 2024](https://positconf2024.rfortherestofus.com/slides.html)
+Template inspiration borrowed heavily from [David Keyes](https://github.com/dgkeyes)' far more [feature-rich report template](https://positconf2024.rfortherestofus.com/slides.html) presented at Posit::conf 2024.
 
 **More resources:**
 
