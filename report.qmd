@@ -8,6 +8,32 @@ format:
       - typst-template.typ
 ---
 
-# Introduction
+# `r stringr::str_to_title(lorem::ipsum_words(3))`
 
-Consequat occaecat mollit velit aliquip. Sunt Lorem cupidatat ad adipisicing do excepteur incididunt aliqua minim irure Lorem officia. Consectetur ad sunt amet est consequat voluptate sint consectetur voluptate. Aute adipisicing laborum magna amet aliquip qui in irure qui ut pariatur veniam proident ex. Sit voluptate ut irure quis excepteur nostrud est laboris. Ut ullamco velit ex laboris occaecat voluptate elit dolore ipsum fugiat est id.
+``` {r, echo=FALSE}
+lorem::ipsum(paragraphs = 1, avg_words_per_sentence = 15)
+```
+
+## `r stringr::str_to_title(lorem::ipsum_words(5))`
+
+``` {r, echo=FALSE}
+lorem::ipsum()
+```
+
+### `r stringr::str_to_title(lorem::ipsum_words(8))`
+
+``` {r, echo=FALSE}
+lorem::ipsum()
+```
+
+### `r stringr::str_to_title(lorem::ipsum_words(7))`
+
+``` {r, echo=FALSE}
+lorem::ipsum()
+```
+
+## `r stringr::str_to_title(lorem::ipsum_words(5))`
+
+``` {r, echo=FALSE}
+lorem::ipsum()
+```
