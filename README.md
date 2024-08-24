@@ -12,6 +12,8 @@ Template inspiration borrowed heavily from [David Keyes](https://github.com/dgke
 
 [Meghan Hall's blog post](https://meghan.rbind.io/blog/2024-08-14-quarto-templates/) recapping her Posit::conf 2024 talk
 
+Nicola Rennie: [Making Pretty PDFs with Typst](https://nrennie.rbind.io/blog/pdf-quarto/making-pdf-with-quarto-typst-latex/)
+
 ![](https://morrisLuke.github.io/typst_quarto_barebones_report_template/report-preview.png)
 
 Out of the loop on the [South Harmon Institute of Technology](https://www.southharmoninstituteoftechnology.org/) reference? It's from the 2006 Movie *[Accepted](https://www.imdb.com/title/tt0384793/)*
